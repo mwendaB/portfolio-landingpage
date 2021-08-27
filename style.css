@@ -16,15 +16,11 @@ header{
     box-shadow: 0 2px 5px rgb(0, 0, .2);
 }
 .logo{
-    color: black;
-    height: 60px;
-    font-size: 36px;
-    line-height: 60px;
-    padding: 0 20px;
-    background: #ccc;
-    text-align: center;
-    box-sizing: border-box;
+    width: 100px;
+    height: 100px;
+    border-radius: 50px;
+    object-fit: cover;
     float: left;
-    font-weight: 700;
-    text-decoration: none;
+    margin-right: 10px;
+   
 }
