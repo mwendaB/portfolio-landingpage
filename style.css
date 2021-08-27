@@ -41,3 +41,13 @@ nav ul li a{
     text-decoration: none;
     color: black;
 }
+nav ul li a.active{
+    background: #069370;
+    color: #fff;
+    transition: 0.5s;
+}
+nav ul li a:hover{
+    background: #069370;
+    color: #fff;
+    transition: 0.5s;
+}
