@@ -23,7 +23,8 @@ CSS(cascading Style Sheet)
 {Let people know what to do if they run into any issues or have questions, ideas or concerns.  Encourage them to contact you or make a contribution to the code.}
 
 ### Live Site
-[sketch](https://www.figma.com/file/2iVPTENpwRziNp3fnayv2c/Untitled?node-id=1%3A2)
+[sketch](https://www.figma.com/file/2iVPTENpwRziNp3fnayv2c/Untitled?node-id=1%3A2).
+
 [LIVE LINK](https://mwendab.github.io/portfolio-landingpage/)
 
 ### Licence
