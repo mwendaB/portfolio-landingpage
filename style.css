@@ -195,21 +195,29 @@ center p{
     width: 300px;
     height: 40px;
     border-radius: 50px;
-    box-shadow: 2px 2px 2px;
+    box-shadow: 2px 2px 2px 2px;
     background-color: transparent;
     border: none;
     outline: none;
     text-align: center;
     color: #242425;
 }
-.contactinput a{
-    
+.send{
+    width: 100px;
+    height: 35px;
     background-color: #069370;
     color: #ffffff;
     display: flex;
     font-size: 0.9rem;
-
-    
+    justify-content: center;
+    align-items: center;
+    margin: auto 10px;
     border-radius: 20px;
     font-weight: 500;
+    text-decoration: none;
+
+}
+.send:hover{
+    background-color: black;
+    transition: 0.5s;
 }
