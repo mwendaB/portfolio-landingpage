@@ -81,6 +81,19 @@ nav ul li a:hover{
 }
 center p{
     font-size: 22px;
+    font-weight: 90;
 }
-
+.skills{
+  margin-left: 60px;
+  background: #fff;
+  border-radius: border-box;
+ border-radius: 2px;
+ box-shadow: 0 1px 2px;
+}
+.skillsheading span{
+ color: #069370;
+ font-weight: 400;
+ text-transform: uppercase;
+ letter-spacing: 1px;
+ font-size: 1rem;
 
