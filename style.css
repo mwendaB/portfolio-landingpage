@@ -115,3 +115,23 @@ center p{
    
     margin-right: 20px;
 }
+#recent{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    margin: 30px 0px;
+    flex-direction: column;
+}
+.recentheading span {
+    color: #069370;
+    font-weight: 500;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    font-size: 1.5rem;
+}
+.recentheading h2 {
+    font-size: 3rem;
+    margin: 0px;
+    font-weight: 400;
+    letter-spacing: 1px;
+}
