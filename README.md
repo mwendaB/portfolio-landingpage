@@ -23,7 +23,7 @@ CSS(cascading Style Sheet)
 {Let people know what to do if they run into any issues or have questions, ideas or concerns.  Encourage them to contact you or make a contribution to the code.}
 
 ### Live Site
-<a href"https://mwendab.github.io/portfolio-landingpage/"> LIVE LINK</a>
+[LIVE LINK](https://mwendab.github.io/portfolio-landingpage/)
 
 ### Licence
 This project is under the  [MIT](LICENSE) licence:<br>
