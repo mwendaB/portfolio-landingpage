@@ -162,3 +162,54 @@ center p{
     background-color: black;
     transition: 0.5s;
 }
+.contact{
+    background-color: #ffffff;
+    border-radius: border-box;
+    max-width: 1200px;
+    margin: 20px auto;
+    border-radius: 4px;
+    box-shadow: 0 2px 5px;
+}
+.contact1{
+       display: flex;
+       justify-content: center;
+       
+       margin: 40px 0px;
+
+}
+.contact img{
+    width: auto;
+    height: auto;
+}
+#contacth3{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.contactinput{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.contactinput input{
+    width: 300px;
+    height: 40px;
+    border-radius: 50px;
+    box-shadow: 2px 2px 2px;
+    background-color: transparent;
+    border: none;
+    outline: none;
+    text-align: center;
+    color: #242425;
+}
+.contactinput a{
+    
+    background-color: #069370;
+    color: #ffffff;
+    display: flex;
+    font-size: 0.9rem;
+
+    
+    border-radius: 20px;
+    font-weight: 500;
+}
