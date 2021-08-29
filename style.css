@@ -173,6 +173,11 @@ center p{
     border-radius: 4px;
     box-shadow: 0 2px 5px;
 }
+#contact h3{
+    text-align: center;
+    font-size: xx-large;
+    margin-bottom: -40px;
+}
 .contact1{
        display: flex;
        justify-content: center;
