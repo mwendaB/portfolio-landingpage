@@ -169,9 +169,13 @@ center p{
     text-align: center;
     background-color: #fff;
 }
+#aboutme h4{
+    font-size: xx-large;
+}
 #aboutme p{
     width: 700px;
     margin-left: 300px;
+    font-size: x-large;
 }
 #contact{
     background-color: #ffffff;
